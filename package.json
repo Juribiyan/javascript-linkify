@@ -1,0 +1,25 @@
+{
+  "name": "ba-linkify",
+  "version": "1.0.0",
+  "description": "Process links in text. Ben Alman's linkify.js adaptation",
+  "main": "ba-linkify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Juribiyan/javascript-linkify"
+  },
+  "keywords": [
+    "linkify",
+    "links",
+    "url",
+    "text-processing"
+  ],
+  "author": "Ben Alman (http://benalman.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juribiyan/javascript-linkify/issues"
+  },
+  "homepage": "https://github.com/Juribiyan/javascript-linkify"
+}
