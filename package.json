@@ -1,6 +1,6 @@
 {
   "name": "ba-linkify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Process links in text. Ben Alman's linkify.js adaptation",
   "main": "ba-linkify.js",
   "scripts": {
